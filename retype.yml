@@ -1,0 +1,32 @@
+input: .
+output: .retype
+url: https://guide.gatitosworld.com/
+branding:
+  title: GW Guide
+  label: v3.3.59
+links:
+- text: Accede al servidor
+  link: https://discord.com/invite/gatitos
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. Todos los derechos reservados."
+generator:
+  directoryIndex:
+    append: false
+locale: es
+meta:
+  title: " | GW Guide"
+search:
+  hotkeys:
+    - "s"
+  maxResults: 20
+  minChars: 1
+  mode: partial
+  noResultsFoundMsg: Ningún elemento coincide con la búsqueda.
+  placeholder: Buscar
+  preload: true
+snippets:
+  lineNumbers:
+    - js
+    - json
+    - py

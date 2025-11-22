@@ -1,0 +1,246 @@
+{
+  "version": "3.11.0",
+  "created": "2025-11-22T12:15:06Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "assets\\pfps\\emelin.jpg"
+    },
+    {
+      "path": "assets\\pfps\\gacarbla.jpg"
+    },
+    {
+      "path": "assets\\pfps\\tortilla.jpg"
+    },
+    {
+      "path": "blog\\3_1\\index.html"
+    },
+    {
+      "path": "blog\\3_2_48\\index.html"
+    },
+    {
+      "path": "blog\\3_2_49\\index.html"
+    },
+    {
+      "path": "blog\\3_2_50\\index.html"
+    },
+    {
+      "path": "blog\\3_2\\index.html"
+    },
+    {
+      "path": "blog\\feed.xml"
+    },
+    {
+      "path": "blog\\index.html"
+    },
+    {
+      "path": "categories\\index.html"
+    },
+    {
+      "path": "categories\\versiones\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "dataprotection\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "l\\cc\\index.html"
+    },
+    {
+      "path": "l\\cr\\index.html"
+    },
+    {
+      "path": "l\\ct\\index.html"
+    },
+    {
+      "path": "l\\cv\\index.html"
+    },
+    {
+      "path": "l\\cvip\\index.html"
+    },
+    {
+      "path": "l\\mg\\index.html"
+    },
+    {
+      "path": "l\\modpstex3\\index.html"
+    },
+    {
+      "path": "l\\mr\\index.html"
+    },
+    {
+      "path": "l\\o\\index.html"
+    },
+    {
+      "path": "l\\r\\index.html"
+    },
+    {
+      "path": "mechanics\\index.html"
+    },
+    {
+      "path": "mod\\protocols\\legal\\index.html"
+    },
+    {
+      "path": "mod\\protocols\\report\\index.html"
+    },
+    {
+      "path": "mod\\protocols\\sanction\\index.html"
+    },
+    {
+      "path": "mod\\protocols\\ticket\\index.html"
+    },
+    {
+      "path": "mod\\protocols\\txt-control\\index.html"
+    },
+    {
+      "path": "mod\\protocols\\vc-control\\index.html"
+    },
+    {
+      "path": "mod\\protocols\\warn\\index.html"
+    },
+    {
+      "path": "organization\\channels\\custom\\index.html"
+    },
+    {
+      "path": "organization\\channels\\reserved\\index.html"
+    },
+    {
+      "path": "organization\\channels\\text\\index.html"
+    },
+    {
+      "path": "organization\\channels\\vip\\index.html"
+    },
+    {
+      "path": "organization\\channels\\voice\\index.html"
+    },
+    {
+      "path": "organization\\index.html"
+    },
+    {
+      "path": "organization\\roles\\autoroles\\index.html"
+    },
+    {
+      "path": "organization\\roles\\color\\index.html"
+    },
+    {
+      "path": "organization\\roles\\levelroles\\index.html"
+    },
+    {
+      "path": "organization\\roles\\specials\\index.html"
+    },
+    {
+      "path": "organization\\roles\\vip\\index.html"
+    },
+    {
+      "path": "organization\\roles\\voice\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.js"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "rules\\index.html"
+    },
+    {
+      "path": "rules\\laws\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "summary\\index.html"
+    },
+    {
+      "path": "tags\\discord\\index.html"
+    },
+    {
+      "path": "tags\\eventos\\index.html"
+    },
+    {
+      "path": "tags\\index.html"
+    },
+    {
+      "path": "tags\\moderación\\index.html"
+    },
+    {
+      "path": "tags\\niveles\\index.html"
+    },
+    {
+      "path": "tags\\personal\\index.html"
+    },
+    {
+      "path": "tags\\personalización\\index.html"
+    },
+    {
+      "path": "tags\\primeros-pasos\\index.html"
+    },
+    {
+      "path": "tags\\reglas\\index.html"
+    },
+    {
+      "path": "tags\\twitch\\index.html"
+    },
+    {
+      "path": "tags\\vc\\index.html"
+    },
+    {
+      "path": "tags\\vip\\index.html"
+    },
+    {
+      "path": "team\\events\\index.html"
+    },
+    {
+      "path": "team\\mod\\index.html"
+    },
+    {
+      "path": "team\\twitch\\index.html"
+    },
+    {
+      "path": "welcome\\index.html"
+    }
+  ]
+}
