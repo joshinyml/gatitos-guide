@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guide.gatitosworld.com/sitemap.xml.gz
