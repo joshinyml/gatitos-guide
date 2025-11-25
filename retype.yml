@@ -2,10 +2,10 @@ input: .
 output: .retype
 url: https://guide.gatitosworld.com/
 branding:
-  title: GW Guide
+  title: Guía Gatitos
   label: v3.3.59
 links:
-- text: Accede al servidor
+- text: Únete al servidor
   link: https://discord.com/invite/gatitos
   target: blank
 footer:
@@ -15,7 +15,7 @@ generator:
     append: false
 locale: es
 meta:
-  title: " | GW Guide"
+  title: " | Guía Gatitos"
 search:
   hotkeys:
     - "s"
