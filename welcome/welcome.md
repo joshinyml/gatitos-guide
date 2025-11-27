@@ -1,6 +1,6 @@
 ---
 order: 950
-icon: accessibility
+icon: bookmark
 tags:
     - primeros pasos
 ---

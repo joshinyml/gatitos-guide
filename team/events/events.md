@@ -12,4 +12,4 @@ tags:
 
 La guía para organizadores de eventos no se encuentra incluída en la guía del servidor. Para poder acceder a ella abandonarás esta página.
 
-[!button text="Ir a la guía" variant="secondary" icon="link-external" target="blank"]() *En desarrollo*
+[!button text="Ir a la guía" variant="ghost" icon="link-external" target="blank"]() *En desarrollo*
