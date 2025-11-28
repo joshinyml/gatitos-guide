@@ -13,7 +13,11 @@ Selecciona qué sección te interesaría explorar.
   <li><a href="./channels/reserved/">Reservados</a></li>
   <li><a href="./channels/text/">Texto</a></li>
   <li><a href="./channels/vip/">VIP</a></li>
+<<<<<<< HEAD
   <li style="opacity: .3; cursor: not-allowed">Voz (Personalizados)</li>
+=======
+  <li><a href="./channels/custom/">Voz (Personalizados)</a></li>
+>>>>>>> recuperar-cambios
   <li><a href="./channels/voice/">Voz (Públicos)</a></li>
 </ul>
 

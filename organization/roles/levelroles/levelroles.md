@@ -19,6 +19,7 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 <br><br><br>
 
 ## Recompensas por niveles de texto
+<<<<<<< HEAD
 **Nivel 5** `@Gato doméstico`
 :   *Sin recompensas.*
 
@@ -45,6 +46,34 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 
 **Nivel 200** `@Gato Cósmico`
 :   Acceso al bot Mudae.<br>Separación en la barra de miembros.
+=======
+**Nivel 5** ➜ `@💬「 5 」`
+:   *Sin recompensas.*
+
+**Nivel 10** ➜ `@💬「 10 」`
+:   Podrás usar emojis externos.
+
+**Nivel 15** ➜ `@💬「 15 」`
+:   Podrás usar stickers externos.<br>Podrás cambiar tu apodo.
+
+**Nivel 30** ➜ `@💬「 30 」`
+:   Podrás enviar multimedia en forma de links a <kbd>⁠:icon-hash:💬・general</kbd>.
+
+**Nivel 50** ➜ `@💬「 50 」`
+:   Podrás iniciar actividades en <kbd>:icon-hash:💬・general</kbd>.<br>Podrás crear encuestas en <kbd>:icon-hash:💬・general</kbd>.
+
+**Nivel 75** ➜ `@💬「 75 」`
+:   Podrás adjuntar multimedia directamente a <kbd>:icon-hash:⁠💬・general</kbd>.
+
+**Nivel 100** ➜ `@💬「 100 」`
+:   Podrás añadir reacciones.<br>Podrás enviar notas de voz en <kbd>:icon-hash:⁠💬・general</kbd>.
+
+**Nivel 150** ➜ `@💬「 150 」`
+:   Separación en la barra de miembros.<br>Poder añadir emotes, stickers y sonidos.
+
+**Nivel 200** ➜ `@💬「 200 」`
+:   Separación en la barra de miembros.<br>Rango VIP
+>>>>>>> recuperar-cambios
 
 <br><br><br>
 
@@ -57,10 +86,17 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 :   Podrás iniciar actividades en canales de voz.
 
 **Nivel 15** `@Voice Lv. 15`
+<<<<<<< HEAD
 :   Podrás activar la cámara y compartir tu pantalla en los conoce gente.
 
 **Nivel 30** `@Voice Lv. 30`
 :   Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
+=======
+:   Podrás activar la cámara y compartir tu pantalla en los canales de Charla.
+
+**Nivel 30** `@Voice Lv. 30`
+:   Podrás crear canales de voz personalizados.<br>Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
+>>>>>>> recuperar-cambios
 
 **Nivel 50** `@Voice Lv. 50`
 :   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.
