@@ -8,7 +8,7 @@ tags:
 
 # Voz personalizados
 
-Estos canales, como su nombre indica, son personalizables por el usuario que los creó.
+Estos canales, como su nombre indica, son personalizables por el usuario que los crea.
 Son completamente editables, permitiendo establecer reglas de visibilidad, acceso y mucho más.
 
 Para aprovechar todas estas funciones, utilizamos el bot **Catto Coffee**, afiliado al servidor.
@@ -17,7 +17,7 @@ Para aprovechar todas estas funciones, utilizamos el bot **Catto Coffee**, afili
 
 ## Mecánicas
 
-Estos canales tienen sus propias mecánicas y reglas técnicas. No siguen el funcionamiento habitual de los canales de voz de Discord, por lo que también cuentan con un reglamento específico, disponible en las [reglas del servidor](../../../rules/).
+Estos canales cuentan con mecánicas y reglas técnicas propias. No siguen el funcionamiento habitual de los canales de voz de Discord, por lo que también tienen un reglamento específico disponible en las [reglas del servidor](../../../rules/).
 
 [!ref Reglas especiales](../../../rules/#v3--canales-de-voz-personalizados)
 
@@ -25,27 +25,30 @@ Estos canales tienen sus propias mecánicas y reglas técnicas. No siguen el fun
 
 ### Creación
 
-Para crear un canal personalizado debes unirte al canal de voz designado.
+Para crear un canal personalizado, simplemente únete al canal de voz designado.
 
 :::disabled
 [!button text="¡Únete para crear!" variant="ghost"]() *No disponible actualmente*
 :::
 
-Al unirte al canal, Catto Coffee detectará tu presencia, creará automáticamente un canal personalizado y te moverá allí. El bot registrará quién fue el creador y responderá a los comandos de ese usuario.
+Al unirte, Catto Coffee detectará tu presencia, creará automáticamente tu canal personalizado y te moverá allí. El bot registrará quién fue el creador y responderá a los comandos de esa persona.
 
 <br><br>
 
 ### Personalización
 
-La personalización de los canales de voz personalizada se realizará siempre por medio de los comandos `/voice` del bot.
+La personalización de estos canales se realiza mediante los comandos `/voice` del bot.
 
-Aquí te dejamos una lista de comandos recomendados para empezar a usar los canales de voz.
-- `/voice name`: Modifica el nombre del canal.<br>RECUERDA: Usa nombres apropiados. [Regla V.3.1](../../../rules/#v3--canales-de-voz-personalizados)
-- `/voice limit`: Establece el máximo de usuarios en el canal.<br>RECUERDA: Máximo 15 usuarios. [Regla V.3.7](../../../rules/#v3--canales-de-voz-personalizados)
-- `/voice lock`: Haz que el canal sea inaccesible para usuarios sin permisos.
-- `/voice unlock`: Haz que el canal sea otra vez accesible.
+A continuación encontrarás una lista de comandos recomendados para comenzar a usar tu canal personalizado:
+<br><br>
+- `/voice name`: Cambia el nombre de tu canal.<br>
+**RECUERDA**: Usa nombres apropiados. [Regla V.3.1](/rules/rules.md/#v3--canales-de-voz-personalizados)
+- `/voice limit`: Establece el número máximo de usuarios permitidos en tu canal.<br>
+**RECUERDA**: Máximo 15 usuarios por canal. [Regla V.3.7](/rules/rules.md/#v3--canales-de-voz-personalizados)
+- `/voice lock`: Cierra el canal para evitar que entren nuevos usuarios.
+- `/voice unlock`: Reabre el canal para permitir el acceso nuevamente.
 
 <br><br>
 
 ### Eliminación
-Los canales se eliminarán automáticamente cuando todos los integrantes lo hayan abandonado.
+El canal se eliminará automáticamente cuando quede vacío.
