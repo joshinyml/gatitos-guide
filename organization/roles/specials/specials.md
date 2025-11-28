@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-order: 950
-=======
 order: 750
->>>>>>> recuperar-cambios
 icon: 
 tags:
     - primeros pasos
