@@ -1,29 +1,28 @@
 input: .
 output: .retype
 url: https://guide.gatitosworld.com/
+
 branding:
   title: Guía Gatitos
   label: v3.3.59
+
 links:
-<<<<<<< HEAD
-- text: Únete al servidor
-  link: https://discord.com/invite/gatitos
-  target: blank
-footer:
-  copyright: "&copy; Copyright {{ year }}. Todos los derechos reservados."
-=======
-- text: Accede al servidor
-  link: https://discord.com/invite/gatitos
-  target: blank
+  - text: Accede al servidor
+    link: https://discord.com/invite/gatitos
+    target: blank
+
 footer:
   copyright: "&copy; {{ year }} Gatitos. Todos los derechos reservados."
->>>>>>> recuperar-cambios
+
 generator:
   directoryIndex:
     append: false
+
 locale: es
+
 meta:
   title: " | Guía Gatitos"
+
 search:
   hotkeys:
     - "s"
@@ -33,6 +32,7 @@ search:
   noResultsFoundMsg: Ningún elemento coincide con la búsqueda.
   placeholder: Buscar
   preload: true
+
 snippets:
   lineNumbers:
     - js
