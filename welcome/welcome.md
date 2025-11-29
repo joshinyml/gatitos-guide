@@ -6,48 +6,48 @@ tags:
 ---
 
 # ¡Bienvenid@!
-Esta es la página de información, aquí te explicaremos la organización de la guía y cómo puedes encontrar toda la información que necesites.<br>
-También aprovecharemos para introducirte al servidor y mostrarte nuestra organización y funcionamiento.
+En esta página de información te mostraremos cómo está organizada la guía y cómo encontrar fácilmente toda la información que necesites.<br>
+Además, aprovecharemos para presentarte el servidor y explicarte cómo funciona nuestra organización.
 
 <br><br>
 
 ## Introducción
 
-Esta es la guía del servidor, una página en la que recogemos toda la documentación que utilizamos.<br>
-Normas, códigos de conducta, registros legales, políticas de privacidad y protección de datos... Todo lo encontrarás aquí, público. Creemos en la importancia de la transparencia y brindaremos toda la información posible a nuestros usuario si esto puede conllevar a una mejor convivencia en la comunidad.
+Esta es la guía del servidor, un espacio donde recopilamos toda la documentación que utilizamos: normas, códigos de conducta, registros legales, políticas de privacidad y protección de datos. Todo aquí es público. Creemos en la importancia de la transparencia y compartimos esta información para favorecer una mejor convivencia en la comunidad.
 
-En la barra superior encontrarás el título de la guía junto a su versión, múltiples links que consideramos interesantes y un buscador.<br>
-En la barra lateral izquierda una lista con todas las secciones que la guía tiene, ésta, en una vista esquemática, te guiará por todo el contenido.<br>
-En la barra lateral derecha se encuentra el esquema de contenido, una visualización esquemática de los títulos que la página que estás leyendo tiene.<br>
-Al pié de cada página encontrarás una serie de etiquetas que identifican el tema que se trata en la publicación, si buscas publicaciones similares, simplemente haz click encima y te transportará a una lista de elementos con la misma etiqueta.
+En la **barra superior** encontrarás el título de la guía junto a su versión, varios links de interés y un buscador.<br>
+En la **barra lateral izquierda** hay una lista con todas las secciones de la guía; esta vista esquemática te permitirá navegar fácilmente por el contenido.<br>
+En la **barra lateral derecha** se muestra un esquema de contenido, que visualiza los títulos de la página que estás leyendo.<br>
+Al **pie de cada página** encontrarás etiquetas que identifican el tema de la publicación. Si haces click en ellas, accederás a otras publicaciones con la misma etiqueta.
 
 <br><br>
 
-## ¡Esto es interesante!
+## ¡Lo que debes saber!
+Antes de continuar, te presentamos las secciones más importantes que te recomendamos conocer primero.
 
 <br>
 
 ### Reglas
-Empecemos por lo más importante, conocer nuestras reglas.<br>
-En esta guía contamos con una versión completa del reglamento, no obstante como usuario seguramente sea más cómodo para ti leer la versión de Discord, la que se encuentra en nuestro canal de `#reglas`
+Empecemos por lo más importante: conocer nuestras reglas.<br>
+En esta guía encontrarás la versión completa del reglamento; sin embargo, como usuario seguramente te resulte más cómodo consultar la versión simplificada en Discord, disponible en el canal de `#reglas`
 [!ref Reglas](../rules/rules.md)
 
 <br><br>
 
 ### Mecánicas
-Visita la página de mecánicas del servidor y échale un ojo, algunas de ellas son únicas en nuestra comunidad y será bueno conocerlas.
+Visita la página de mecánicas del servidor y échale un vistazo. Algunas son únicas en nuestra comunidad, así que vale la pena conocerlas.
 [!ref Mecánicas](../mechanics/)
 
 <br><br>
 
 ### Organización de los canales
-Si quieres conocer al detalle todos y cada uno de nuestros canales, tanto de texto como de voz, te invitamos a visitar la página de organización de canales, dónde descubrirás todo lo necesario a cerca de ellos.
+Si quieres conocer al detalle todos nuestros canales, tanto de texto como de voz, te invitamos a visitar el apartado de organización de canales, donde encontrarás toda la información que necesitas sobre ellos.
 [!ref Canales](../organization/channels/)
 
 <br><br>
 
 ### Funcionamiento de nuestra moderación
-Nuestros moderadores siguen un código de conducta muy estricto, si quieres conocer nuestro procedimiento y actuación puedes visitar su correspondiente página.
-[!ref Moderación](../mod/)
+Nuestros moderadores siguen un código de conducta muy estricto. Si quieres conocer en detalle nuestros procedimientos y cómo actuamos, puedes visitar el apartado correspondiente.
+[!ref Moderación](../mod/protocols/)
 
 <br><br>
