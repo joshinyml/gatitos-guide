@@ -1,40 +1,40 @@
 ---
 order: 950
 icon: 
-date: 2024-11-25
+date: 2025-11-29
 tags:
     - Moderación
 author: 
-    name: Tørtilla
+  - name: Tørtilla
     link: https://discord.com/users/832692087974658079
     avatar: /assets/pfps/tortilla.jpg
+  - name: Josh
+    link: https://discord.com/users/505402639140519938
+    avatar: /assets/pfps/josh.jpg
 ---
 
-# Protocolos    Legales
+# Protocolos Legales
 
-Los **Protocolos Legales** se aplican cuando una situación excede la capacidad del equipo de moderación y administración de Gatitos World para manejarla. En este punto, intervienen las leyes específicas de cada país. El equipo no puede tomar acciones por eventos ocurridos fuera del servidor; el equipo puede actuar si el incidente sucedió dentro del servidor.
+Los **Protocolos Legales** se aplican cuando una situación excede la capacidad del equipo de moderación y administración de Gatitos para manejarla. En estos casos, intervienen las leyes específicas de cada país. El equipo no puede tomar acciones por eventos ocurridos fuera del servidor; solo puede actuar si el incidente sucedió dentro del servidor.
 
-Si el equipo de moderación y administración de Gatitos World no puede resolver la situación de manera legal, es momento de contactar a las autoridades pertinentes para que tomen las acciones necesarias. El equipo de moderación y administración te indicará cuándo es el momento adecuado para hacerlo.
+Si el equipo de moderación y administración de Gatitos no puede resolver la situación legalmente, será necesario contactar a las autoridades correspondientes. Ellos te indicarán el momento adecuado para hacerlo.
 
-### ¿Cómo puedo hacerlo? 
+### ¿Qué debo hacer?
 
-Dependerá de tu país, para ello deberás contactar a las autoridades pertinentes, en la mayor parte de los casos puedes empezar contactando a la **policía cibernética**, la cual te ayudará en temas relacionados al espacio cibernético. Una vez se contacten a las autoridades pertinentes, el equipo de moderación y administración del servidor dejarán de tener control de la situación, el único control que podrán mantener será dentro del servidor.
+Dependerá de tu país; en general, deberás contactar a las autoridades pertinentes. En muchos casos, puedes comenzar por la **policía cibernética**, que podrá ayudarte con asuntos relacionados al espacio digital. Una vez que las autoridades se involucren, el equipo de moderación y administración del servidor dejará de tener control sobre la situación, manteniendo únicamente el control dentro del servidor.
 
-Te recomendamos, que reunas **todas** las evidencias posibles, desde nombres, ID's, capturas de pantalla de los hechos, imágenes, videos, audios, etc. Esto con la finalidad de que tu caso pueda recibir atención lo antes posible y que las autoridades te puedan ayudar.
+Te recomendamos reunir **todas** las evidencias posibles: nombres, IDs, capturas de pantalla de los hechos, imágenes, videos, audios, etc. Esto permitirá que tu caso reciba atención rápidamente y que las autoridades puedan ayudarte de manera efectiva.
 
 ### ¿En qué me puede ayudar la Policía Cibernética?
 
-Estos son **algunos** de los casos en los que la policía te puede ayudar:
+Estos son **algunos** de los casos en los que la policía puede intervenir:
 
-- **Fraude cibernético**: Estafas por correo electrónico, phishing, fraudes en línea, estafas de tarjetas de crédito.
-- **Ciberacoso**: Amenazas, acoso o intimidación a través de medios digitales, ciberbullying.
-- **Pornografía infantil**: Distribución y acceso a material ilegal, grooming y explotación sexual en línea.
-- **Suplantación de identidad**: Uso de identidades falsas para cometer delitos, perfiles falsos en redes sociales.
-- **Grooming**: Uso de internet para contactar y explotar a menores.
-- **Robo de propiedad intelectual**: Uso no autorizado de contenido protegido por derechos de autor, piratería.
-- **Sextorsión**: Amenazas de divulgación de contenido íntimo para obtener dinero o favores.
-- **Difamación**: Divulgar información falsa que daña la reputación de una persona, grupo u organización.
-- **Doxing**: Difundir información privada sobre un individuo u organización con el fin de causar daños.
-
-!!!WARNING **IMPORTANTE:** Estos protocolos están sujetos a cambios y a criterio de cada moderador y administrador.
-!!!
+- **Fraude cibernético**: estafas por correo electrónico, phishing, fraudes en línea o con tarjetas de crédito.
+- **Ciberacoso**: amenazas, acoso o intimidación a través de medios digitales, incluyendo ciberbullying.
+- **Pornografía infantil**: distribución o acceso a material ilegal, grooming y explotación sexual en línea.
+- **Suplantación de identidad**: uso de identidades falsas para cometer delitos o crear perfiles falsos en redes sociales.
+- **Grooming**: uso de internet para contactar y explotar a menores.
+- **Robo de propiedad intelectual**: uso no autorizado de contenido protegido por derechos de autor o piratería.
+- **Sextorsión**: amenazas de divulgar contenido íntimo para obtener dinero o favores.
+- **Difamación**: difusión de información falsa que daña la reputación de una persona, grupo u organización.
+- **Doxing**: divulgación de información privada sobre un individuo u organización con la intención de causar daño.
