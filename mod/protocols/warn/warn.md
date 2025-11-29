@@ -1,41 +1,42 @@
 ---
 order: 900
 icon: 
-date: 2024-11-04
+date: 2025-11-29
 tags:
     - Moderación
 author: 
-    name: Tørtilla
+  - name: Tørtilla
     link: https://discord.com/users/832692087974658079
     avatar: /assets/pfps/tortilla.jpg
+  - name: Josh
+    link: https://discord.com/users/505402639140519938
+    avatar: /assets/pfps/josh.jpg
 ---
 
 # Advertencias Verbales y Warn
 
-El sistema de warns del servidor funciona con el bot @UnbelievaBoat, este sistema funciona cuando las advertencias verbales ya alcanzaron su límite y el usuario aún no acata las indicaciones, existen situaciones en las cuales se da warn directo sin advertencia verbal previa.
+El sistema de warns del servidor funciona con el bot [@UnbelievaBoat](https://unbelievaboat.com/). Se utiliza cuando las advertencias verbales ya han alcanzado su límite y el usuario aún no acata las indicaciones. Existen situaciones en las que se aplica un warn directo, sin advertencia verbal previa.
 
 ### ¿Qué es un Warn? 
 
-Es un registro que se utiliza en el equipo de moderadores y administradores para mantener un registro del comportamiento previo del usuario, estos registros se toman en cuenta para futuras sanciones, al momento de efectuar un Warn el usuario recibe un Mensaje Directo (Siempre y cuando los tenga activados) y también se le hace mención en el canal [Mod-Log](https://discord.com/channels/790289803219566633/866990593535770624)  del servidor, esto con el fin de que el usuario sepa que está a punto de sufrir una sanción mayor si no detiene su comportamiento.
+Es un registro que el equipo de moderadores y administradores utilizamos para documentar el comportamiento previo de un usuario. Estos registros se consideran para futuras sanciones. Al recibir un warn, el usuario recibe un mensaje directo (si los tiene activados) y se registra la acción en el canal de [#sanciones](https://discord.com/channels/790289803219566633/866990593535770624) del servidor. Así, el usuario sabe que podría enfrentarse a una sanción mayor si no modifica su conducta.
 
 ### ¿Qué es una Advertencia Verbal?
 
-Es una advertencia que se puede dar tanto en Canales de Texto como en Canales de Voz y Mensajes Directos, buscan detener un comportamiento inapropiado y/o disruptivo sin la necesidad de una sanción mayor, este sistema puede variar dependiendo del moderador o administrador, pero usualmente son 2-3 advertencias antes de un Warn o sanción.
+Es una notificación que se puede dar en canales de texto, de voz o mediante mensajes directos. Su objetivo es detener un comportamiento inapropiado o disruptivo sin necesidad de una sanción mayor. La cantidad y forma de advertencias puede variar según el moderador o administrador, pero normalmente se aplican 2–3 advertencias antes de un warn o sanción.
 
-A continuación se explica como funcionan las Advertencias Verbales antes de un Warn: 
+A continuación se explica cómo funcionan las advertencias verbales antes de un warn.
 
-!!!WARNING **IMPORTANTE:** Estos protocolos están sujetos a cambios y a criterio de cada moderador y administrador.
-!!!
 
 ==- **Sistema de Advertencias Verbales**
-El Sistema de Advertencias Verbales consiste en advertir verbalmente a un usuario que esta incumploendo las reglas, este sistema se utiliza tanto en canales de voz como en canales de texto e inclusive Mensajes Directos, el moderador o administrador dará su advertencia por el medio que considere conveniente.
+El Sistema de Advertencias Verbales consiste en advertir a un usuario cuando está incumpliendo las reglas. Este sistema se aplica en canales de voz, canales de texto e incluso mediante Mensajes Directos, según lo considere conveniente el moderador o administrador.
 
 **Advertencias en Canales de Texto**
-:   Las Advetencias en Canales de Texto ocurren dentro del servidor de Gatitos World, estas advertencias consisten en que el moderador o administrador elimina el contenido que infringe las normas del servidor y hace mención a los usuarios explicando el por que de esta decisión.
+:   Las advertencias en canales de texto ocurren dentro del servidor de Gatitos. Consisten en que el moderador o administrador elimina el contenido que infringe las normas y menciona al usuario explicando el motivo de la acción.
 
 **Advertencias en Canales de Voz**
-:   Las Advertencias en Canales de Voz ocurren dentro del servidor de Gatitos World, estas advertencias consisten en que el moderador o administrador entra a un canal de voz, y dice verbalmente por su micrófono su advertencia, en estas advertencias se mencionan a los usuarios que estan infringiendo las normas y/o se menciona el comportamiento que se debe detener. Los moderadores y administradores tienen **todo** el derecho de silenciar temporalmente a los usuarios si estos interrumpen al moderador o administrador al momento de dar su advertencia.
+:   Las advertencias en canales de voz también ocurren dentro del servidor. Aquí, el moderador o administrador entra al canal de voz y comunica verbalmente la advertencia. Se menciona a los usuarios que están infringiendo las normas y se señala el comportamiento que debe detenerse. Además, los moderadores y administradores **tienen el derecho** de silenciar temporalmente a los usuarios si estos interrumpen la advertencia.
 
 **Advertencias en Mensajes Directos**
-:   Las Advertencias en Canales de Voz ocurren fuera del servidor de Gatitos World, estas advertencias consisten en que el moderador o administrador contacta vía Mensajes Directos al usuario, usualmente estas advertencias se utilizan cuando el usuario no puede ser contactado por Canales de Voz y/o Canales de texto, en estas el moderador o administrador dirá su nombre de usuario, el rango que tiene y que proviene del servidor Gatitos World, posteriormente se dará la advertencia por texto.
+:   Las advertencias vía Mensajes Directos se realizan fuera del servidor. Se utilizan cuando el usuario no puede ser contactado por canales de voz o de texto. El moderador o administrador contacta al usuario, indica su nombre, rango y que proviene del servidor Gatitos, y luego da la advertencia por escrito.
 ==-
