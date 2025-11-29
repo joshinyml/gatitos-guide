@@ -12,7 +12,7 @@ author:
 
 # Reporte a Usuario
 
-Para poder reportar a uno o varios usuarios deberás dirigirte al canal [#ayuda](https://discord.com/channels/790289803219566633/822611489370144808) y en el motivo del ticket colocar "Reporte". 
+Para poder reportar a uno o varios usuarios deberás dirigirte al canal de [__#🎫・tickets__](https://discord.com/channels/790289803219566633/822611489370144808). Ahí encontrarás un menú desplegable en el cual debes seleccionar la categoría de "Reportes". 
 
 :icon-alert-fill: **IMPORTANTE:** El mal uso de este sistema puede ocasionar una sanción, usalo adecuadamente.
 

@@ -10,7 +10,7 @@ tags:
 Estas son las reglas del servidor.<br>
 Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrarás una versión resumida de éstas, no obstante, si buscas una normativa que recoja todos los casos posibles, aquí se encuentra.
 
-!!! Documento largo
+!!!info Documento largo
 Tiempo de lectura aproximado: 22 minutos
 !!!
 
@@ -20,7 +20,7 @@ Si aprecias que un usuario incumple estas normas, repórtalo ante el equipo de m
 La mejor forma de actuar es aportarle al equipo del staff las pruebas necesarias para una actuación rápida.
 !!!
 
-==- `P` Preámbulo
+==- <kbd>P</kbd> Preámbulo
 
 En este documento se recogen los términos y condiciones por los que se regula el acceso a los servicios que la comunidad de GatitosWorld ofrece en la plataforma de Discord, propiedad de Discord Inc.
 
@@ -33,7 +33,7 @@ La interacción con la comunidad se sobreentiende como la aceptación de estos t
 Se define medida correctora como aquella acción emprendida por un miembro del equipo de moderación y/o administración del servidor con el fin de erradicar un comportamiento contrario a lo estipulado en esta normativa.
 !!!
 
-==- `L` Legal
+==- <kbd>L</kbd> Legal
 
 ##### `L.1` Protección de datos
 En GatitosWorld nos preocupamos por el cumplimiento de las vigentes normativas en materia de protección de datos y seguridad. Garantizamos una transparencia absoluta tratando a cada usuario por un código identificador único no vinculado de forma directa a datos personales, confidenciales o identificativos.
@@ -50,7 +50,7 @@ Si tiene alguna duda o consulta, puede contactarnos por medio de un e-mail a <a 
 
 [!ref Leyes que seguimos](./laws/)
 
-==- `D` Normas de Discord
+==- <kbd>D</kbd> Normas de Discord
 
 ##### `D.1` Términos de Servicio
 Discord cuenta con unos términos por los que pueden juzgar si un usuario puede o no utilizar los servicios de su plataforma. Estos términos aplican en toda la plataforma, dentro o fuera del servidor. En caso de apreciar un incumplimiento de éstos, el equipo de moderadores evaluará una posible sanción. En caso de que la infracción haya sido realizada en el servidor o contra los usuarios de éste, la sanción será inminente.
@@ -79,7 +79,7 @@ Indicaremos las normas más importantes de estas directivas.
 El incumplimiento de cualquiera de estas normas, tanto de términos de servicio como de directrices de comunidad, podría suponer la sanción máxima, un veto de acceso permanente al servidor.
 !!!
 
-==- `G` Reglas generales
+==- <kbd>G</kbd> Reglas generales
 
 <br>
 
@@ -184,7 +184,7 @@ El incumplimiento de cualquiera de estas normas, tanto de términos de servicio 
 :   Ante la presencia de múltiples miembros del equipo administrativo, predominará la palabra de a mayoría de los superiores.<br>Ejemplificado: Se encuentran 4 moderadores y 3 mentores. La resolución será la opinión por mayoría de los 3 mentores.<br>
 En caso de empate se analizarán medios de evaluación alternativos.
 
-==- `T` Aplicables a canales de texto
+==- <kbd>T</kbd> Aplicables a canales de texto
 
 <br>
 
@@ -241,7 +241,7 @@ En caso de empate se analizarán medios de evaluación alternativos.
 **T.4.4**
 :   No menciones persistentemente a un usuario.
 
-==- `V` Aplicables a canales de voz
+==- <kbd>V</kbd> Aplicables a canales de voz
 
 <br>
 
