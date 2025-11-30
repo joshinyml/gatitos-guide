@@ -9,7 +9,9 @@ tags:
 
 # Guía de Kick
 
-<h3 style="margin-top:-20px">Accede a la guía para moderadores de Kick.</h3>
+<br>
+
+<h3 style="margin-top:-20px">Accede a la guía para moderadores de Kick</h3>
 
 La guía para moderadores de Kick no se encuentra incluída en la guía del servidor. Para poder acceder a ella abandonarás esta página.
 

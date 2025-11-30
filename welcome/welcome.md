@@ -9,7 +9,7 @@ tags:
 En esta página de información te mostraremos cómo está organizada la guía y cómo encontrar fácilmente toda la información que necesites.<br>
 Además, aprovecharemos para presentarte el servidor y explicarte cómo funciona nuestra organización.
 
-<br><br>
+<br>
 
 ## Introducción
 

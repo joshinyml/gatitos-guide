@@ -13,15 +13,19 @@ author:
     avatar: /assets/pfps/josh.jpg
 ---
 
-# Control de Canales de Texto
+# Control de canales de texto
 
 Todos los canales de texto poseen reglas específicas, las cuales puedes revisar haciendo [clic aquí](/organization/channels/text/). En caso de que un usuario envíe contenido que no corresponda a la temática del canal, cause disturbios, realice comentarios inapropiados o incumpla las reglas del servidor por cualquier motivo, será **advertido** o **sancionado** por el equipo de moderación según la gravedad de sus acciones.
+
+<br>
 
 ### ¿Qué pasa cuando hay contenido inapropiado?
 
 El equipo de moderación eliminará dicho contenido y advertirá o sancionará al usuario si es necesario.
 
 Para más información sobre las sanciones, [haz clic aquí](../sanction/).
+
+<br>
 
 ### ¿Qué pasa si hay disturbios o comportamiento disruptivo?
 

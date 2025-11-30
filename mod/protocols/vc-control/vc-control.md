@@ -10,15 +10,19 @@ author:
     avatar: /assets/pfps/tortilla.jpg
 ---
 
-# Control de Canales de Voz
+# Control de canales de voz
 
 Todos los canales de voz poseen reglas específicas, las cuales puedes revisar haciendo [clic aquí](/organization/channels/voice/). En caso de que un usuario realice acciones fuera de la temática del canal, cause disturbios, haga comentarios inapropiados/sensibles, o incumpla las reglas del servidor, será **advertido** o **sancionado** por el equipo de moderación según la gravedad de sus acciones.
+
+<br>
 
 ### ¿Qué pasa cuando hay contenido inapropiado?
 
 El equipo de moderación ingresará al canal de voz para advertir sobre la situación y, de ser necesario, aplicará la sanción correspondiente.
 
 Para más información sobre las sanciones puedes hacer [clic aquí](../sanction/).
+
+<br>
 
 ### ¿Qué pasa si hay disturbios o comportamiento disruptivo?
 

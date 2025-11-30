@@ -13,9 +13,9 @@ author:
     avatar: /assets/pfps/josh.jpg
 ---
 
-# Protocolos Legales
+# Protocolos legales
 
-Los **Protocolos Legales** se aplican cuando una situación excede la capacidad del equipo de moderación y administración de Gatitos para manejarla. En estos casos, intervienen las leyes específicas de cada país. El equipo no puede tomar acciones por eventos ocurridos fuera del servidor; solo puede actuar si el incidente sucedió dentro del servidor.
+Los **Protocolos legales** se aplican cuando una situación excede la capacidad del equipo de moderación y administración de Gatitos para manejarla. En estos casos, intervienen las leyes específicas de cada país. El equipo no puede tomar acciones por eventos ocurridos fuera del servidor; solo puede actuar si el incidente sucedió dentro del servidor.
 
 Si el equipo de moderación y administración de Gatitos no puede resolver la situación legalmente, será necesario contactar a las autoridades correspondientes. Ellos te indicarán el momento adecuado para hacerlo.
 
@@ -33,7 +33,7 @@ Estos son **algunos** de los casos en los que la policía puede intervenir:
 - **Ciberacoso**: amenazas, acoso o intimidación a través de medios digitales, incluyendo ciberbullying.
 - **Pornografía infantil**: distribución o acceso a material ilegal, grooming y explotación sexual en línea.
 - **Suplantación de identidad**: uso de identidades falsas para cometer delitos o crear perfiles falsos en redes sociales.
-- **Grooming**: uso de internet para contactar y explotar a menores.
+- **Grooming**: uso de Internet para contactar y explotar a menores.
 - **Robo de propiedad intelectual**: uso no autorizado de contenido protegido por derechos de autor o piratería.
 - **Sextorsión**: amenazas de divulgar contenido íntimo para obtener dinero o favores.
 - **Difamación**: difusión de información falsa que daña la reputación de una persona, grupo u organización.

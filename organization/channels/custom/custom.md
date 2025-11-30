@@ -33,7 +33,7 @@ Para crear un canal personalizado, simplemente únete al canal de voz designado.
 
 Al unirte, Catto Coffee detectará tu presencia, creará automáticamente tu canal personalizado y te moverá allí. El bot registrará quién fue el creador y responderá a los comandos de esa persona.
 
-<br><br>
+<br>
 
 ### Personalización
 
@@ -48,7 +48,7 @@ A continuación encontrarás una lista de comandos recomendados para comenzar a 
 - `/voice lock`: Cierra el canal para evitar que entren nuevos usuarios.
 - `/voice unlock`: Reabre el canal para permitir el acceso nuevamente.
 
-<br><br>
+<br>
 
 ### Eliminación
 El canal se eliminará automáticamente cuando quede vacío.

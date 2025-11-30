@@ -1,5 +1,5 @@
 ---
-label: Guía de Moderadores
+label: Guía de moderadores
 icon: link-external
 tags:
     - moderación
@@ -7,7 +7,9 @@ tags:
     - discord
 ---
 
-# Guía de Moderadores
+# Guía de moderadores
+
+<br>
 
 <h3 style="margin-top:-20px">Accede a la guía para Moderadores de Gatitos.</h3>
 

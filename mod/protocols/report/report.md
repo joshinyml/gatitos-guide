@@ -13,7 +13,7 @@ author:
     avatar: /assets/pfps/josh.jpg
 ---
 
-# Reporte a Usuario
+# Reporte a usuario
 
 Para reportar a uno o varios usuarios, dirígete al canal de [#tickets](https://discord.com/channels/790289803219566633/822611489370144808). Dentro encontrarás un menú desplegable donde deberás seleccionar la categoría “Reportes”.
 
@@ -21,20 +21,26 @@ Para reportar a uno o varios usuarios, dirígete al canal de [#tickets](https://
 
 En el formulario deberás indicar claramente el **motivo del reporte** y el **ID del usuario** o de los usuarios que deseas reportar, para que el equipo pueda revisarlo adecuadamente.
 
+<br>
+
 ### ¿Qué es un ID?
 
 El **ID de Discord** es un número compuesto por varios dígitos que identifica de manera única a un usuario. Este dato permite al equipo de moderación y administración realizar un seguimiento preciso del usuario cuando se revisan reportes u otras situaciones específicas.
 
+<br>
+
 ### ¿Cómo obtengo un ID?
 
 Puedes ver un tutorial sobre cómo obtener el ID de un usuario haciendo [clic aquí](https://support.discord.com/hc/es/articles/206346498--D%C3%B3nde-puedo-encontrar-mi-ID-de-usuario-servidor-mensaje).
+
+<br>
 
 ### Mi ticket ya ha sido creado, ¿qué debo hacer?
 
 Un moderador o administrador atenderá tu solicitud a la brevedad. Te pedimos **paciencia** ya que este tipo de reportes suele requerir tiempo para ser investigado y analizado.
 
 Si cuentas con evidencias de lo sucedido, serán de gran ayuda para la persona encargada de tu ticket. El equipo de moderación y administración **no** puede tomar acciones sin evidencias concretas.
-En caso de no contar con ellas, no te preocupes: el o los usuarios serán añadidos a la Black-List (Lista Negra) del servidor para mantener un registro de tu reporte.
+En caso de no contar con ellas, no te preocupes: el o los usuarios serán añadidos a la black-list (lista negra) del servidor para mantener un registro de tu reporte.
 
 Si el encargado del ticket logra obtener evidencias por medio del servidor, ya sea en canales de texto o de voz, el o los usuarios serán advertidos o sancionados dependiendo de la gravedad de sus acciones.
 El encargado del ticket te notificará sobre las medidas tomadas.

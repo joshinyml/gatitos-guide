@@ -24,7 +24,7 @@ En este registro se muestran los motivos de la sanción; sin embargo, por privac
 Las sanciones dependen de la gravedad de la infracción a nuestras reglas y a las normativas de Discord. A continuación se presentan los distintos tipos de sanciones que se aplican en el servidor:
 
 ==- **Warn**
-Esta sanción se explica con más detalle [Aquí](../warn/).
+Esta sanción se explica con más detalle [aquí](../warn/).
 
 ==- **Mute**
 Esta sanción consiste en silenciar temporalmente a un usuario. Durante ese periodo no podrá interactuar en los canales de texto del servidor. Una vez terminado el tiempo establecido, podrá volver a participar con normalidad.
@@ -34,13 +34,13 @@ Esta sanción generalmente no se aplica por motivos de moderación (aunque puede
 Su propósito es restringir temporalmente las interacciones del usuario dentro del servidor cuando la situación lo amerita.
 Consiste en limitar su acceso a canales de voz, canales de texto, reacciones y otras funciones, reduciendo su participación hasta que finalice el tiempo establecido.
 
-==- **Restricción de Canales de Voz**
+==- **Restricción de canales de voz**
 Esta sanción consiste en retirar temporalmente el acceso de un usuario a los canales de voz. Durante ese periodo no podrá unirse a ningún canal de voz. Finalizado el tiempo establecido, recuperará su acceso con normalidad.
 
 ==- **Kick**
 Esta sanción expulsa al usuario de manera inmediata, permitiendo su reingreso. Suele aplicarse cuando una cuenta ha sido comprometida o cuando el usuario incumple las reglas. El usuario puede volver a entrar al servidor de inmediato, siempre que cumpla nuevamente las normas.
 
-==- **Temp-Ban**
+==- **Temp-ban**
 Esta sanción expulsa al usuario de manera inmediata y bloquea su reingreso durante un periodo determinado. Se aplica cuando el usuario ha incumplido las reglas de forma reiterada o moderadamente grave. Una vez cumplido el tiempo, podrá volver a entrar al servidor.
 
 ==- **Ban**
