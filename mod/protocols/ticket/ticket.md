@@ -1,32 +1,51 @@
 ---
 order: 500
 icon: 
-date: 2024-11-04
+date: 2025-11-30
 tags:
     - Moderación
 author: 
-    name: Tørtilla
+  - name: Tørtilla
     link: https://discord.com/users/832692087974658079
     avatar: /assets/pfps/tortilla.jpg
+  - name: Josh
+    link: https://discord.com/users/505402639140519938
+    avatar: /assets/pfps/josh.jpg
 ---
 
 # Ticket
 
-Los tickets son el sistema del servidor en el cual el usuario puede entrar en contacto con los moderadores y administradores, su objetivo es ayudar a los usuarios con dudas generales, reportes y apelar sanciones que no sean graves, a continuación se explican los distintos tipos de ticket:
+Los tickets son un sistema fundamental del servidor que permite a los usuarios ponerse en contacto con el equipo de moderación y administración. Su propósito es brindar orientación en dudas generales, atender reportes y gestionar apelaciones de sanciones que no sean graves. Además, aquí también se encuentran los tickets de Minecraft, los cuales son gestionados por su propio equipo de staff.
+
+A continuación se explican los distintos tipos de tickets:
 
 ==- **Ticket General**
-Sirve para que el equido de moderadores o administradores ayuden a resolver preguntas a los usuarios sobre funciones o información que pidan con respecto a la comunidad.
+Este ticket se utiliza para resolver dudas o brindar información a los usuarios sobre la comunidad.
+Puede incluir preguntas relacionadas con las reglas del servidor, el uso de bots o dónde encontrar información relevante.
 
 ==- **Ticket de Reporte**
-Este tipo de tickets sirve para que los usuarios informen sobre infracciones a alguna de nuestras normativas por parte de otro usuario que pertenezca al servidor de Gatitos World. 
+Este ticket es utilizado por los usuarios para indicar que han identificado un problema que requiere la intervención del equipo, ya sea una infracción a la normativa u otra situación que necesite revisión.
+
+==- **Ticket de Apelación**
+Este ticket se utiliza para apelar sanciones del servidor cuando el usuario considere que fueron aplicadas de manera incorrecta.
+Estas solicitudes son atendidas por [!button variant="info" text="@Coordinación" size="xs"] o rangos superiores.
+
+Para sanciones más graves que impidan el acceso al servidor, la apelación deberá realizarse en el [servidor de apelaciones](https://discord.gg/8X3GKQsxJh).
+
+==- **Ticket de Kick**
+Este ticket está destinado a la resolución de dudas, atención de reportes o reclamo de premios obtenidos en las dinámicas realizadas durante los directos de Capitán Gato.
+
+Gestionados únicamente por [!button variant="info" text="@Kick: Lead Mod" size="xs"] y [!button variant="info" text="@Kick: Head Mod" size="xs"].
+
+==- **Ticket General ❘ [!button variant="secondary" text="Minecraft" size="xs"]**
+Espacio destinado a consultas o dudas relacionadas exclusivamente con el servidor de Minecraft.
+Solo el equipo de [!button variant="info" text="@MC Staff" size="xs"] puede responderlo o gestionarlo.
+
+==- **Ticket de Reporte ❘ [!button variant="secondary" text="Minecraft" size="xs"]**
+Este ticket permite reportar infracciones o problemas ocurridos dentro del servidor de Minecraft.
+Solo el equipo de [!button variant="info" text="@MC Staff" size="xs"] puede responderlo o gestionarlo.
 
 ==- **Ticket de Gestión**
-Este tipo de tickets los pueden abrir solo roles de mentores para arriba. Son para ciertas situaciones para citar a los usuarios por distintos motivos ya sea algún error de evento en el server o informar de algún ultimátum por comportamiento inadecuado a un usuario.
-
-==- **Tickets de Twitch**
-Estos tickets son gestionados por los mods de Twitch, están hechos para la resolución de dudas, reportes, respecto al Twitch de Capitán Gato y solo serán atendidos por el equipo de Moderadores de Twitch.
-
-==- **Tickets de Apelación**
-Estos tickets son para apelar las sanciones de los usuarios, cabe aclarar que si es una sanción de peso mayor como un ban estas no podrán ser apeladas aquí y será necesario apelar en el servidor de apelaciones. En este tipo de tickets los usuarios pueden apelar por sanciones mal dadas, sanciones viejas y/o de peso menor, tales como sanciones otorgadas por roles de la economía del servidor.
+Este tickets solo puede ser abierto por [!button variant="info" text="@Mentor" size="xs"] o rangos superiores. Se utiliza para citar a usuarios o tratar casos particulares, como errores en eventos, revisiones de comportamiento o la comunicación de advertencias importantes (ultimátums).
 ==-
 

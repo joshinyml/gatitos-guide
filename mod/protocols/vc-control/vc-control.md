@@ -12,15 +12,14 @@ author:
 
 # Control de Canales de Voz
 
-Todos los canales de voz tienen reglas diferentes las cuales puedes ver en [este enlace](../../../rules/), en el caso de que un usuario haga cosas que esten totalmente fuera de la temática del canal, este causando disturbios, este hablando de temas inapropiados o se rompen las reglas del servidor de una u otra manera, el usuario será **advertido** o **sancionado** por el equipo de moderadores y administradores dependiendo de sus acciones.
-
-!!!WARNING **IMPORTANTE:** Estos protocolos están sujetos a cambios y a criterio de cada moderador y administrador.
-!!!
+Todos los canales de voz poseen reglas específicas, las cuales puedes revisar haciendo [clic aquí](/organization/channels/voice/). En caso de que un usuario realice acciones fuera de la temática del canal, cause disturbios, haga comentarios inapropiados/sensibles, o incumpla las reglas del servidor, será **advertido** o **sancionado** por el equipo de moderación según la gravedad de sus acciones.
 
 ### ¿Qué pasa cuando hay contenido inapropiado?
 
-El equipo de moderadores y administradores entrarán al canal de voz advertirán al respecto, sancionará en caso de ser necesario. Para más información de las sanciones puedes visitar [este enlace](../sanction/).
+El equipo de moderación ingresará al canal de voz para advertir sobre la situación y, de ser necesario, aplicará la sanción correspondiente.
+
+Para más información sobre las sanciones puedes hacer [clic aquí](../sanction/).
 
 ### ¿Qué pasa si hay disturbios o comportamiento disruptivo?
 
-En el caso de haber disturbios o comportamiento disruptivo, el equipo de moderadores y administradores detendrán dicho comportamiento con advertencias verbales y en el caso de que los usuarios no acaten las advertencias, se procederá con Warn o sanción.
+En caso de que se presenten disturbios o comportamiento disruptivo, el equipo de moderación detendrá la situación mediante advertencias verbales. Si los usuarios no acatan dichas advertencias, se procederá con un Warn o una sanción, según corresponda.

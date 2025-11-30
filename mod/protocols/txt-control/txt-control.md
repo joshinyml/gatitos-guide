@@ -1,26 +1,28 @@
 ---
 order: 800
 icon: 
-date: 2024-11-05
+date: 2025-11-30
 tags:
     - Moderación
 author: 
-    name: Tørtilla
+  - name: Tørtilla
     link: https://discord.com/users/832692087974658079
     avatar: /assets/pfps/tortilla.jpg
+  - name: Josh
+    link: https://discord.com/users/505402639140519938
+    avatar: /assets/pfps/josh.jpg
 ---
 
 # Control de Canales de Texto
 
-Todos los canales de texto tienen reglas diferentes las cuales puedes ver en [este enlace](../../../rules/), en el caso de que un usuario envíe contenido que esté totalmente fuera de la temática del canal, este causando disturbios, este hablando de temas inapropiados o se rompen las reglas del servidor de una u otra manera, el usuario será **advertido** o **sancionado** por el equipo de moderadores y administradores dependiendo de sus acciones.
-
-!!!WARNING **IMPORTANTE:** Estos protocolos están sujetos a cambios y a criterio de cada moderador y administrador.
-!!!
+Todos los canales de texto poseen reglas específicas, las cuales puedes revisar haciendo [clic aquí](/organization/channels/text/). En caso de que un usuario envíe contenido que no corresponda a la temática del canal, cause disturbios, realice comentarios inapropiados o incumpla las reglas del servidor por cualquier motivo, será **advertido** o **sancionado** por el equipo de moderación según la gravedad de sus acciones.
 
 ### ¿Qué pasa cuando hay contenido inapropiado?
 
-El equipo de moderadores y administradores eliminará dicho contenido y advertirá, sancionará en caso de ser necesario. Para más información de las sanciones puedes visitar [este enlace](../sanction/).
+El equipo de moderación eliminará dicho contenido y advertirá o sancionará al usuario si es necesario.
+
+Para más información sobre las sanciones, [haz clic aquí](../sanction/).
 
 ### ¿Qué pasa si hay disturbios o comportamiento disruptivo?
 
-En el caso de haber disturbios o comportamiento disruptivo, el equipo de moderadores y administradores detendrán dicho comportamiento con advertencias verbales, eliminación de contenido inapropiado (Si corresponde) y en el caso de que los usuarios no acaten las advertencias, se procederá con Warn o sanción.
+En caso de disturbios o comportamiento disruptivo, el equipo de moderación intervendrá deteniendo la conducta mediante advertencias verbales, eliminación de contenido inapropiado (si corresponde) y, si el usuario hace caso omiso a las advertencias, se procederá con un **Warn** o una sanción, según corresponda.

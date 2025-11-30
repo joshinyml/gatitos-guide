@@ -1,40 +1,46 @@
 ---
 order: 400
 icon: 
-date: 2024-11-05
+date: 2025-11-30
 tags:
     - Moderación
 author: 
-    name: Tørtilla
+  - name: Tørtilla
     link: https://discord.com/users/832692087974658079
     avatar: /assets/pfps/tortilla.jpg
+  - name: Josh
+    link: https://discord.com/users/505402639140519938
+    avatar: /assets/pfps/josh.jpg
 ---
 
 # Reporte a Usuario
 
-Para poder reportar a uno o varios usuarios deberás dirigirte al canal de [__#🎫・tickets__](https://discord.com/channels/790289803219566633/822611489370144808). Ahí encontrarás un menú desplegable en el cual debes seleccionar la categoría de "Reportes". 
+Para reportar a uno o varios usuarios, dirígete al canal de [#tickets](https://discord.com/channels/790289803219566633/822611489370144808). Dentro encontrarás un menú desplegable donde deberás seleccionar la categoría “Reportes”.
 
-:icon-alert-fill: **IMPORTANTE:** El mal uso de este sistema puede ocasionar una sanción, usalo adecuadamente.
+:icon-alert-fill: **IMPORTANTE:** El uso incorrecto de este sistema puede conllevar a una sanción. Úsalo con responsabilidad.
 
-En el formulario deberás colocar el motivo del reporte, y el o los ID de los usuarios a los que deseas reportar.
+En el formulario deberás indicar claramente el **motivo del reporte** y el **ID del usuario** o de los usuarios que deseas reportar, para que el equipo pueda revisarlo adecuadamente.
 
 ### ¿Qué es un ID?
 
-El ID de Discord es un número de varios dígitos que identifica a un usuario, esto le servirá al equipo de moderadores y administradores para poder darle un seguimiento al usuario.
+El **ID de Discord** es un número compuesto por varios dígitos que identifica de manera única a un usuario. Este dato permite al equipo de moderación y administración realizar un seguimiento preciso del usuario cuando se revisan reportes u otras situaciones específicas.
 
 ### ¿Cómo obtengo un ID?
 
-Puedes ver un tutorial de como conseguir el ID de un usuario en la siguiente [página de Discord Support.](https://support.discord.com/hc/es-419/articles/206346498--Dónde-puedo-encontrar-mi-ID-de-usuario-servidor-mensaje)
+Puedes ver un tutorial sobre cómo obtener el ID de un usuario haciendo [clic aquí](https://support.discord.com/hc/es/articles/206346498--D%C3%B3nde-puedo-encontrar-mi-ID-de-usuario-servidor-mensaje).
 
-### Mi ticket ya ha sido creado, ¿Qué debo hacer?
+### Mi ticket ya ha sido creado, ¿qué debo hacer?
 
-A la brevedad, un moderador o administrador atenderá tu solicitud, pedimos **paciencia**, usualmente este tipo de reportes llevan un tiempo en ser investigados y analizados. Si tu tienes evidencias de lo sucedido le será de mucha al encargado de tu ticket, el equipo de moderadores y administradores **NO** pueden tomar acciones si no hay evidencias concretas, si no cuentas con evidencias no te preocupes, el o los usuarios serán añadidos a la Black-List (Lista Negra) del servidor con el fin de tener registro de tu reporte.
+Un moderador o administrador atenderá tu solicitud a la brevedad. Te pedimos **paciencia** ya que este tipo de reportes suele requerir tiempo para ser investigado y analizado.
 
-En el caso de que el encargado del ticket logré obtener evidencias por medio del servidor, ya sea en canales de texto o de voz el o los usuarios serán advertidos o sancionados dependiendo de la gravedad de sus acciones. El encargado del ticket te informará respecto a las medidas que se han tomado en contra de los usuarios. De igual manera si tú presentas evidencias contundentes (Capturas de pantalla, videos, grabaciones, etc.) de lo sucedido, el usuario será advertido o sancionado dependiendo de la gravedad de sus acciones.
+Si cuentas con evidencias de lo sucedido, serán de gran ayuda para la persona encargada de tu ticket. El equipo de moderación y administración **no** puede tomar acciones sin evidencias concretas.
+En caso de no contar con ellas, no te preocupes: el o los usuarios serán añadidos a la Black-List (Lista Negra) del servidor para mantener un registro de tu reporte.
+
+Si el encargado del ticket logra obtener evidencias por medio del servidor, ya sea en canales de texto o de voz, el o los usuarios serán advertidos o sancionados dependiendo de la gravedad de sus acciones.
+El encargado del ticket te notificará sobre las medidas tomadas.
+
+De igual manera, si tú aportas **evidencias contundentes** (capturas de pantalla, videos, grabaciones, etc.), el usuario será advertido o sancionado según la gravedad del caso.
 
 ### ¡Gracias!
 
-Agradecemos tu reporte, con cada reporte que haces ayudas a la comunidad a ser un lugar más seguro y cómodo para las personas.
- 
-!!!WARNING **IMPORTANTE:** Estos protocolos están sujetos a cambios y a criterio de cada moderador y administrador.
-!!!
+Agradecemos tu reporte. Cada aporte que haces ayuda a que la comunidad sea un lugar más seguro y cómodo para todos.
