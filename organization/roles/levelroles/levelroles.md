@@ -19,8 +19,6 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 <br><br><br>
 
 ## Recompensas por niveles de texto
-**Nivel 5** ➜ `@💬「 5 」`
-:   *Sin recompensas.*
 
 **Nivel 10** ➜ `@💬「 10 」`
 :   Podrás usar emojis externos.
@@ -29,7 +27,7 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 :   Podrás usar stickers externos.<br>Podrás cambiar tu apodo.
 
 **Nivel 30** ➜ `@💬「 30 」`
-:   Podrás enviar multimedia en forma de links a <kbd>⁠:icon-hash:💬・general</kbd>.
+:   Podrás enviar multimedia en forma de links a <kbd>⁠:icon-hash:💬・general</kbd>.<br>Podrás escribir en ciertos canales de voz.
 
 **Nivel 50** ➜ `@💬「 50 」`
 :   Podrás iniciar actividades en <kbd>:icon-hash:💬・general</kbd>.<br>Podrás crear encuestas en <kbd>:icon-hash:💬・general</kbd>.
@@ -41,38 +39,35 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 :   Podrás añadir reacciones.<br>Podrás enviar notas de voz en <kbd>:icon-hash:⁠💬・general</kbd>.
 
 **Nivel 150** ➜ `@💬「 150 」`
-:   Separación en la barra de miembros.<br>Poder añadir emotes, stickers y sonidos.
+:   Separación en la barra de miembros.<br>Podrás añadir emotes, stickers y sonidos al servidor.<br>Rango Mini-VIP.
 
 **Nivel 200** ➜ `@💬「 200 」`
-:   Separación en la barra de miembros.<br>Rango VIP
+:   Separación en la barra de miembros.<br>Rango VIP.
 
 <br><br><br>
 
 ## Recompensas por niveles de voz
 
-**Nivel 5** `@Voice Lv. 5`
-:   *Sin recompensas.*
-
-**Nivel 10** `@Voice Lv. 10`
+**Nivel 10** `@🎙️「 10 」`
 :   Podrás iniciar actividades en canales de voz.
 
-**Nivel 15** `@Voice Lv. 15`
+**Nivel 15** `@🎙️「 15 」`
 :   Podrás activar la cámara y compartir tu pantalla en los canales de Charla.
 
-**Nivel 30** `@Voice Lv. 30`
+**Nivel 30** `@🎙️「 30 」`
 :   Podrás crear canales de voz personalizados.<br>Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
 
-**Nivel 50** `@Voice Lv. 50`
-:   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.
+**Nivel 50** `@🎙️「 50 」`
+:   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.<br>Podrás activar la cámara y compartir tu pantalla en canales personalizados.<br>Podrás escribir en canales de voz personalizados.
 
-**Nivel 75** `@Voice Lv. 75`
-:   Podrás enviar mensajes dentro de los canales de voz.
+**Nivel 75** `@🎙️「 75 」`
+:   Podrás enviar mensajes en canales de voz públicos.
 
-**Nivel 100** `@Voice Lv. 100`
+**Nivel 100** `@🎙️「 100 」`
 :   Podrás enviar notas de voz en <kbd>:icon-hash:⁠⁠💬・general</kbd>.
 
-**Nivel 150** `@Voice Lv. 150`
-:   Podrás usar el panel de sonidos en los canales de voz.
+**Nivel 150** `@🎙️「 150 」`
+:   Podrás usar el panel de sonidos en los canales de voz.<br>Podrás usar sonidos externos en canales de voz personalizados.<br>Rango Mini-VIP.
 
-**Nivel 200** `@Voice Lv. +++`
-:   Separación de la barra de miembros.<br>Podrás añadir un sonido al panel de sonidos del servidor.
+**Nivel 200** `@V🎙️「 200 」`
+:   Separación de la barra de miembros.<br>Podrás añadir emotes, stickers y sonidos al servidor.<br>Rango VIP.
