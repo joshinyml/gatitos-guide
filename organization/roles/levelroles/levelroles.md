@@ -55,10 +55,10 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 :   Podrás activar la cámara y compartir tu pantalla en los canales de Charla.
 
 **Nivel 30** `@🎙️「 30 」`
-:   Podrás crear canales de voz personalizados.<br>Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
+:   Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
 
 **Nivel 50** `@🎙️「 50 」`
-:   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.<br>Podrás activar la cámara y compartir tu pantalla en canales personalizados.<br>Podrás escribir en canales de voz personalizados.
+:   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.
 
 **Nivel 75** `@🎙️「 75 」`
 :   Podrás enviar mensajes en canales de voz públicos.
@@ -67,7 +67,7 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 :   Podrás enviar notas de voz en <kbd>:icon-hash:⁠⁠💬・general</kbd>.
 
 **Nivel 150** `@🎙️「 150 」`
-:   Podrás usar el panel de sonidos en los canales de voz.<br>Podrás usar sonidos externos en canales de voz personalizados.<br>Rango Mini-VIP.
+:   Podrás usar el panel de sonidos en los canales de voz.<br>Rango Mini-VIP.
 
-**Nivel 200** `@V🎙️「 200 」`
+**Nivel 200** `@🎙️「 200 」`
 :   Separación de la barra de miembros.<br>Podrás añadir emotes, stickers y sonidos al servidor.<br>Rango VIP.
