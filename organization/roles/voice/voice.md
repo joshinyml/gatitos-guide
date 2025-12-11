@@ -8,10 +8,15 @@ tags:
 
 # Canales de voz
 
-Los roles de voice son una novedosa implementación para la regulación del acceso a canales de voz, permitiendo implementar la nueva mecánica de restricción de acceso a canales de voz como sanción.
+Contamos con una implementación pensada para regular el acceso a los canales de voz, permitiendo aplicar una mecánica de restricción como medida moderativa.
 
-Son dos roles. El primero, [!button variant="info" text="@VC Access" size="xs"]() te otorga el permiso de acceso a los canales de voz, y se logra como un rol autoseleccionable en su correspondiente canal.
+Por el momento solo existe un rol relacionado con el acceso a canales de voz. No se descarta que en el futuro se añadan más roles o ajustes para regular mejor esta área.
 
-[!ref Roles autoseleccionables](../autoroles/)
+<br>
 
-El segundo rol, [!button variant="info" text="@VC Restrict" size="xs"]() será considerado un método de sanción y privará a cualquier usuario de acceder a los canales de voz mientras lo posea. Es un "rol pegajoso", por lo que aunque el usuario abandonase y reingresase al servidor, lo conservaría. Pero no recomendamos esta práctica. Es altamente probable que en el proceso de reingreso, el rol se vuelva permanente y el usuario no pueda volver a acceder a los canales de voz. En dicho caso, la administración no se hace cargo por la negligencia del usuario.
+## Rol de Sanción
+
+El rol [!button variant="info" text="@VC Restrict" size="xs"] se usa como método de sanción y bloquea el acceso a todos los canales de voz mientras el usuario lo posea.
+
+Es un rol “pegajoso”: si el usuario sale y vuelve a entrar al servidor, el rol se mantiene.
+No recomendamos abandonar el servidor para intentar quitarse la sanción; puede quedarse de forma permanente y, en ese caso, la administración no se hace responsable.

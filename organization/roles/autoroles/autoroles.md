@@ -8,9 +8,10 @@ tags:
 
 # Autoseleccionables
 
-Los autoroles o roles autoseleccionables son un tipo de rol que los usuarios pueden asignarse incluso si carecen de los permisos necesarios para gestionar roles.
+Los roles autoseleccionables permiten que cualquier usuario se asigne ciertos roles sin necesitar permisos de moderación.
 
-Se podrán adquirir en el canal de [:icon-hash:autoroles](https://discord.com/channels/790289803219566633/1245962051050803231). Podrás lograr con ellos recibir notificaciones a cerca de eventos, actualizaciones y mucho más.
+Puedes colocártelos en el canal de [:icon-hash:personalización](https://discord.com/channels/790289803219566633/customize-community).
+Estos roles sirven para personalizar tu presencia en el servidor y, si lo deseas, recibir notificaciones específicas sobre actividades, actualizaciones y más.
 
-Dentro de este tipo de roles, puedes encontrar los roles de colores.
+Dentro de este tipo de roles también se encuentran los roles de colores.
 [!ref Roles de colores](../color/)
