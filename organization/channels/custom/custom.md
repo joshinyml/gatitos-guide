@@ -1,5 +1,5 @@
 ---
-order: 
+order: 500
 icon: 
 tags:
     - primeros pasos
@@ -21,7 +21,7 @@ Estos canales cuentan con mecánicas y reglas técnicas propias. No siguen el fu
 
 [!ref Reglas especiales](../../../rules/#v3--canales-de-voz-personalizados)
 
-<br><br>
+<br>
 
 ### Creación
 
@@ -37,16 +37,18 @@ Al unirte, Catto Coffee detectará tu presencia, creará automáticamente tu can
 
 ### Personalización
 
-La personalización de estos canales se realiza mediante los comandos `/voice` del bot.
+La personalización de estos canales se realiza mediante los comandos <kbd>/voice</kbd> del bot.
 
 A continuación encontrarás una lista de comandos recomendados para comenzar a usar tu canal personalizado:
-<br><br>
-- `/voice name`: Cambia el nombre de tu canal.<br>
+
+<br>
+
+- <kbd>/voice name</kbd>: Cambia el nombre de tu canal.<br>
 **RECUERDA**: Usa nombres apropiados. [Regla V.3.1](/rules/rules.md/#v3--canales-de-voz-personalizados)
-- `/voice limit`: Establece el número máximo de usuarios permitidos en tu canal.<br>
+- <kbd>/voice limit</kbd>: Establece el número máximo de usuarios permitidos en tu canal.<br>
 **RECUERDA**: Máximo 15 usuarios por canal. [Regla V.3.7](/rules/rules.md/#v3--canales-de-voz-personalizados)
-- `/voice lock`: Cierra el canal para evitar que entren nuevos usuarios.
-- `/voice unlock`: Reabre el canal para permitir el acceso nuevamente.
+- <kbd>/voice lock</kbd>: Cierra el canal para evitar que entren nuevos usuarios.
+- <kbd>/voice unlock</kbd>: Reabre el canal para permitir el acceso nuevamente.
 
 <br>
 

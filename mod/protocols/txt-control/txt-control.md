@@ -10,7 +10,7 @@ author:
     avatar: /assets/pfps/tortilla.jpg
   - name: Josh
     link: https://discord.com/users/505402639140519938
-    avatar: /assets/pfps/josh.jpg
+    avatar: /assets/pfps/joshiny.jpg
 ---
 
 # Control de canales de texto

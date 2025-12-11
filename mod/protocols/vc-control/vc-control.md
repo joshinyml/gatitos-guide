@@ -1,13 +1,16 @@
 ---
 order: 700
 icon: 
-date: 2024-11-05
+date: 2025-11-30
 tags:
     - Moderación
 author: 
-    name: Tørtilla
+  - name: Tørtilla
     link: https://discord.com/users/832692087974658079
     avatar: /assets/pfps/tortilla.jpg
+  - name: Josh
+    link: https://discord.com/users/505402639140519938
+    avatar: /assets/pfps/joshiny.jpg
 ---
 
 # Control de canales de voz

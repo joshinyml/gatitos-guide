@@ -10,12 +10,12 @@ author:
     avatar: /assets/pfps/tortilla.jpg
   - name: Josh
     link: https://discord.com/users/505402639140519938
-    avatar: /assets/pfps/josh.jpg
+    avatar: /assets/pfps/joshiny.jpg
 ---
 
 # Ticket
 
-Los _tickets_ son un sistema fundamental del servidor que permite a los usuarios ponerse en contacto con el equipo de moderación y administración. Su propósito es brindar orientación en dudas generales, atender reportes y gestionar apelaciones de sanciones que no sean graves. Además, aquí también se encuentran los tickets de Minecraft, los cuales son gestionados por su propio equipo de staff.
+Los tickets son un sistema fundamental del servidor que permite a los usuarios ponerse en contacto con el equipo de moderación y administración. Su propósito es brindar orientación en dudas generales, atender reportes y gestionar apelaciones de sanciones que no sean graves. Además, aquí también se encuentran los tickets de Minecraft, los cuales son gestionados por su propio equipo de staff.
 
 A continuación se explican los distintos tipos de tickets:
 

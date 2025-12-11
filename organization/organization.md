@@ -11,16 +11,17 @@ Selecciona qué sección te interesaría explorar.
 ### :icon-hash: Canales
 <ul>
   <li><a href="./channels/reserved/">Reservados</a></li>
+  <li><a href="./channels/textmc/">Texto Minecraft</a></li>
   <li><a href="./channels/text/">Texto</a></li>
   <li><a href="./channels/vip/">VIP</a></li>
-  <li><a href="./channels/custom/">Voz (Personalizados)</a></li>
   <li><a href="./channels/voice/">Voz (Públicos)</a></li>
+  <li><a href="./channels/custom/">Voz (Personalizados)</a></li>
 </ul>
 
 ### :icon-person: Roles
-  - [Especiales](./roles/specials/)
   - [Autoseleccionables](./roles/autoroles/)
   - [Colores](./roles/color/)
+  - [Especiales](./roles/specials/)
   - [Niveles](./roles/levelroles/)
   - [VIP](./roles/vip/)
   - [Acceso a voz](./roles/voice/)

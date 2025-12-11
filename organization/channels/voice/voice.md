@@ -1,5 +1,5 @@
 ---
-order: 
+order: 550
 icon: 
 tags:
     - primeros pasos
@@ -25,57 +25,27 @@ tags:
 </style>
 
 # Voz públicos
-¿Qué nos deparará el futuro de los canales de voz de GW?
+Estos son los canales de voz públicos disponibles en el servidor:
 
 <br>
 
 <div class="masonry">
 <div class="item">
 
-### :icon-unmute: Casual [1-5]
-Máximo de usuarios: `10`<br>Finalidad: Pasar el rato<br>Acceso no controlado.<br>Acceso restringible.
+### :icon-unmute: General [1-3]
+Máximo de usuarios: <kbd>10</kbd><br>Finalidad: Pasar el rato<br>Acceso no controlado<br>Acceso restringible
 
 </div>
 <div class="item">
 
-### :icon-unmute: Conoce Gente [1-5]
-Máximo de usuarios: `10`<br>Finalidad: Conocer gente<br>Acceso no controlado.<br>Acceso restringible.
+### :icon-unmute: Charla [1-3]
+Máximo de usuarios: <kbd>8</kbd><br>Finalidad: Conversar con otros usuarios<br>Acceso no controlado<br>Acceso restringible
 
 </div>
 <div class="item">
 
-### :icon-unmute: Dúos [1-3]
-Máximo de usuarios: `2`<br>Finalidad: Llamada privada<br>Acceso no controlado.<br>Acceso restringible.
-
-</div>
-<div class="item">
-
-### :icon-unmute: Tríos [1-3]
-Máximo de usuarios: `3`<br>Finalidad: Llamada privada<br>Acceso no controlado.<br>Acceso restringible.
-
-</div>
-<div class="item">
-
-### :icon-unmute: Música [1-3]
-Máximo de usuarios: *No existe*<br>Finalidad: Escuchar música<br>Acceso no controlado.<br>Acceso restringible.
-
-</div>
-<div class="item">
-
-### :icon-unmute: Karaoke [1-3]
-Máximo de usuarios: `10`<br>Finalidad: Cantar por turnos<br>Acceso no controlado.<br>Acceso restringible.
-
-</div>
-<div class="item">
-
-### :icon-unmute: Películas [1-2]
-Máximo de usuarios: *No existe*<br>Finalidad: Ver películas, series, partidos...<br>Acceso controlado por administración.<br>Acceso restringible.
-
-</div>
-<div class="item">
-
-### :icon-unmute: LoFi Radio
-Máximo de usuarios: *No existe*<br>Finalidad: Escuchar LoFi<br>Acceso no controlado.<br>Acceso restringible.
+### :icon-mute: AFK
+Máximo de usuarios: <kbd>Sin límite</kbd><br>Finalidad: Usuarios ausentes<br>Acceso no controlado<br>Acceso restringible
 
 </div>
 </div>

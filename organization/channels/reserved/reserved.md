@@ -1,5 +1,5 @@
 ---
-order: 
+order: 900
 icon: 
 tags:
     - primeros pasos
@@ -25,9 +25,9 @@ tags:
 
 # Canales reservados
 
-Los canales reservados son aquellos esenciales para el funcionamiento de las mecánicas del servidor, pero en los que las interacciones de los usuarios están altamente limitadas, pudiendo en la mayor parte de casos, suponer que sólo se pueda interactuar con reacciones, botones, menús seleccionables, o ninguno de los anteriormente indicados.
+Los canales reservados son esenciales para el funcionamiento de varias mecánicas del servidor. En ellos, la interacción de los usuarios es muy limitada y, en la mayoría de casos, solo se permite usar reacciones, botones, menús seleccionables o directamente no interactuar.
 
-Cada canal reservado tiene su función y finalidad, y éstas se ven variadas en función de las necesidades actuales del servidor.
+Cada canal reservado tiene una función específica, y su finalidad puede ajustarse según las necesidades actuales del servidor.
 
 <br>
 
@@ -35,31 +35,44 @@ Cada canal reservado tiene su función y finalidad, y éstas se ven variadas en 
 <div class="item">
 
 ### :icon-hash:reglas
-En este canal se recogen las reglas del servidor.<br>También incluye un enlace a esta guía, dónde se encuentra la versión extendida y completa de éstas.
+En este canal se encuentran las reglas del servidor. Incluye un enlace a esta guía, donde podrás ver su versión completa y detallada.
 
 </div>
 <div class="item">
 
 ### :icon-hash:info
-Canal de información general.<br>Encontrarás una información completa del servidor muy resumida. Para más detalles, observa esta misma guía.
+Canal de información general. Encontrarás una información completa del servidor muy resumida. Para más detalles, observa esta misma guía.
 
 </div>
 <div class="item">
 
+### :icon-hash:leaderboard
+Cada semana se publica un top 10 con los usuarios más activos en canales de voz. Revísalo de vez en cuando; si estuviste lo suficientemente activo, podrías aparecer en la lista.
+
+</div>
+
+<div class="item">
+
 ### :icon-hash:niveles
-En este canal se enviarán las notificaciones de subida de nivel.<br>Cada vez que un usuario suba de nivel, tanto en voz como en texto, se mostrará un mensaje en este canal mencionándolo.
+Aquí se muestran las notificaciones de subida de nivel. Cada vez que un usuario suba de nivel en texto o voz, aparecerá un mensaje mencionándolo.
+
+</div>
+<div class="item">
+
+### :icon-hash:tickets
+Canal especializado para solicitar ayuda. Encontrarás un mensaje interactivo con todos los tipos de tickets disponibles.
+
+</div>
+<div class="item">
+
+### :icon-hash:sanciones
+Canal donde se muestran de forma transparente todas las sanciones aplicadas en el servidor.
 
 </div>
 <div class="item">
 
 ### :icon-hash:colores
-Aquí podrás seleccionar como usuario del servidor si quieres ponerte o quitarte ciertos roles de colores.<br>Recuerda quitar tu anterior color antes de poner uno nuevo.
-
-</div>
-<div class="item">
-
-### :icon-hash:auto-roles
-Autoroles varios, mensajes con listas, botones, reacciones u otros que te permiten asignarte roles varios como los de notificaciones.
+Aquí puedes seleccionar o quitar roles de colores. Recuerda retirar tu color actual antes de elegir uno nuevo.
 
 </div>
 </div>
