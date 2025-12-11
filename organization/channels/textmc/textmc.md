@@ -35,28 +35,28 @@ Cada canal tiene una temática definida para mantener el orden y facilitar que c
 <div class="masonry">
 <div class="item">
 
-### :icon-hash:mc-vinculación
+### :icon-link: mc-vinculación
 Aquí se envían los avisos sobre la vinculación o desvinculación de tu cuenta de Minecraft con Discord.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:mc-general
+### :icon-hash: mc-general
 Un canal similar a :icon-hash:general, pero centrado exclusivamente en temas de Minecraft.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:mc-multimedia
+### :icon-file-media: mc-multimedia
 Aquí puedes compartir multimedia relacionada con tus aventuras o cualquier momento curioso dentro del juego.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:mc-sugerencias
+### :icon-light-bulb: mc-sugerencias
 Un espacio para enviar ideas que te gustaría ver implementadas en el servidor, o sugerencias para mejorar lo que ya existe.
 
 </div>

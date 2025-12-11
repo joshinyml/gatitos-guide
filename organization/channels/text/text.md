@@ -34,84 +34,84 @@ Estos canales tienen una temática definida para mantener la comunidad organizad
 <div class="masonry">
 <div class="item">
 
-### :icon-hash:general
+### :icon-hash: general
 Su propósito es servir como un chat para todo aquello que no tiene un canal específico.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:multimedia
+### :icon-file-media: multimedia
 Un bonito lugar para compartir multimedia sin relación a la conversación de #general, o cuando no cuentes con permisos para enviarlo allí.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:apoyo
+### :icon-heart: apoyo
 Nuestro rincón dedicado a todos aquellos que necesitan acompañamiento en un mal momento. Recuerda que todos somos humanos.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:comandos
+### :icon-dependabot: comandos
 Si quieres usar un bot, este es el lugar indicado para hacerlo sin interrumpir otras conversaciones.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:memes
+### :icon-star: memes
 Cuidado al entrar: los memes de este canal podrían causar daños irreparables a tu humor.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:arte
+### :icon-paintbrush: arte
 ¿Has hecho una obra de arte pero no encaja en :icon-hash:fan-arts? Este es el canal adecuado para compartirla con el resto.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:fan-arts
+### :icon-pencil: fan-arts
 Nuestra comunidad también es hogar de Capitán Gato, y este canal está dedicado a quienes quieran compartir un dibujo hecho para él.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:ediciones
+### :icon-sparkles-fill: ediciones
 Si te gusta hacer ediciones o *edits*, puedes compartirlos aquí. Solo recuerda cumplir las reglas.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:confesiones
+### :icon-unread: confesiones
 Un espacio para compartir confesiones de forma anónima. Tu nombre no se muestra, pero sigue las reglas.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:roleplay
+### :icon-smiley: roleplay
 Como su nombre indica, este canal está destinado al roleplay por texto. Deja volar tu imaginación.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:economía
+### :icon-ruby: economía
 ¡Suelta la pasta! Este es el canal donde tu billetera virtual viene a sufrir un rato.
 
 </div>
 
 <div class="item">
 
-### :icon-hash:nekotina
+### :icon-hubot: nekotina
 El canal dedicado a Nekotina y sus comandos. Úsala con cariño, que se estresa.
 
 </div>
