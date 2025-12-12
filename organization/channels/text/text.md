@@ -83,7 +83,7 @@ Nuestra comunidad también es hogar de Capitán Gato, y este canal está dedicad
 
 <div class="item">
 
-### :icon-sparkles-fill: ediciones
+### :icon-sparkle: ediciones
 Si te gusta hacer ediciones o *edits*, puedes compartirlos aquí. Solo recuerda cumplir las reglas.
 
 </div>

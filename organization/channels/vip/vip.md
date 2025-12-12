@@ -35,19 +35,19 @@ Cada canal tiene su función, y aunque la moderación procura no intervenir a me
 <div class="masonry">
 <div class="item">
 
-### :icon-hash:vip-army
+### :icon-star: vip-army
 Aquí podrás ver todos los beneficios que desbloquea tu rol: acceso anticipado a funciones, eventos, sorteos y más.
 
 </div>
 <div class="item">
 
-### :icon-hash:gatito-army
+### :icon-star: gatito-army
 Un espacio para hablar con otros usuarios VIP. Funciona igual que :icon-hash:general, pero solo para quienes tienen rol VIP.
 
 </div>
 <div class="item">
 
-### :icon-hash:cmd-vips
+### :icon-dependabot: cmd-vips
 Si quieres usar comandos en un canal más privado y exclusivo, este es el lugar donde puedes hacer uso de tus bots favoritos.
 
 </div>
