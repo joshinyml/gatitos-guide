@@ -8,6 +8,11 @@
     <lastBuildDate>Sat, 12 Oct 2024 00:00:00 GMT</lastBuildDate>
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://gatitos.space/blog/feed.xml" />
+    <image>
+      <title>Changelog</title>
+      <link>https://gatitos.space/blog/</link>
+      <url>https://gatitos.space/favicon.ico</url>
+    </image>
     <item>
       <title>v3.2.50</title>
       <guid isPermaLink="true">https://gatitos.space/blog/3_2_50/</guid>
