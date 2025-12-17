@@ -5,7 +5,6 @@ url: https://gatitos.space/
 branding:
   title: Guía Gatitos
   label: v3.3.59
-  favicon: /assets/gatitos.jpg
 
 links:
   - text: Accede al servidor
@@ -39,3 +38,5 @@ snippets:
     - js
     - json
     - py
+
+favicon: assets\favicon.ico
