@@ -1,10 +1,11 @@
 input: .
 output: .retype
-url: https://guide.gatitosworld.com/
+url: https://gatitos.space/
 
 branding:
   title: Guía Gatitos
   label: v3.3.59
+  favicon: /assets/gatitos.jpg
 
 links:
   - text: Accede al servidor

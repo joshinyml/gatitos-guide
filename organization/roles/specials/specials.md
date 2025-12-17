@@ -9,7 +9,7 @@ tags:
 
 Existe una serie de roles que están destinados a unas funciones especiales. Son roles que están fuera del alcance de los usuarios comunes, pero combiene conocerlos para tener en cuenta las cualidades de cada uno de estos roles y las limitaciones que como usuario tienes ante ellos.
 
-<br><br>
+<br>
 
 ## Roles de difusión
 
@@ -29,7 +29,7 @@ Estos roles cuentan con protección de mención: como usuario, no podrás mencio
 **Miaustreamer**
 :   Más de 10.000 seguidores y un promedio constante de espectadores en sus transmisiones.
 
-<br><br>
+<br>
 
 ## Roles Moderativos
 

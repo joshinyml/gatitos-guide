@@ -20,7 +20,7 @@ En la **barra lateral izquierda** hay una lista con todas las secciones de la gu
 En la **barra lateral derecha** se muestra un esquema de contenido, que visualiza los títulos de la página que estás leyendo.<br>
 Al **pie de cada página** encontrarás etiquetas que identifican el tema de la publicación. Si haces click en ellas, accederás a otras publicaciones con la misma etiqueta.
 
-<br><br>
+<br>
 
 ## ¡Lo que debes saber!
 Antes de continuar, te presentamos las secciones más importantes que te recomendamos conocer primero.
@@ -32,22 +32,22 @@ Empecemos por lo más importante: conocer nuestras reglas.<br>
 En esta guía encontrarás la versión completa del reglamento; sin embargo, como usuario seguramente te resulte más cómodo consultar la versión simplificada en Discord, disponible en el canal de `#reglas`
 [!ref Reglas](../rules/rules.md)
 
-<br><br>
+<br>
 
 ### Mecánicas
 Visita la página de mecánicas del servidor y échale un vistazo. Algunas son únicas en nuestra comunidad, así que vale la pena conocerlas.
 [!ref Mecánicas](../mechanics/)
 
-<br><br>
+<br>
 
 ### Organización de los canales
 Si quieres conocer al detalle todos nuestros canales, tanto de texto como de voz, te invitamos a visitar el apartado de organización de canales, donde encontrarás toda la información que necesitas sobre ellos.
 [!ref Canales](../organization/channels/)
 
-<br><br>
+<br>
 
 ### Funcionamiento de nuestra moderación
 Nuestros moderadores siguen un código de conducta muy estricto. Si quieres conocer en detalle nuestros procedimientos y cómo actuamos, puedes visitar el apartado correspondiente.
 [!ref Moderación](../mod/protocols/)
 
-<br><br>
+<br>

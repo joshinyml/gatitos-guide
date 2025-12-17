@@ -48,26 +48,26 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 
 ## Recompensas por niveles de voz
 
-**Nivel 10** `@🎙️「 10 」`
+**Nivel 10** ➜ `@🎙️「 10 」`
 :   Podrás iniciar actividades en canales de voz.
 
-**Nivel 15** `@🎙️「 15 」`
+**Nivel 15** ➜ `@🎙️「 15 」`
 :   Podrás activar la cámara y compartir tu pantalla en los canales de Charla.
 
-**Nivel 30** `@🎙️「 30 」`
+**Nivel 30** ➜ `@🎙️「 30 」`
 :   Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
 
-**Nivel 50** `@🎙️「 50 」`
+**Nivel 50** ➜ `@🎙️「 50 」`
 :   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.
 
-**Nivel 75** `@🎙️「 75 」`
+**Nivel 75** ➜ `@🎙️「 75 」`
 :   Podrás enviar mensajes en canales de voz públicos.
 
-**Nivel 100** `@🎙️「 100 」`
+**Nivel 100** ➜ `@🎙️「 100 」`
 :   Podrás enviar notas de voz en <kbd>:icon-hash:⁠⁠💬・general</kbd>.
 
-**Nivel 150** `@🎙️「 150 」`
+**Nivel 150** ➜ `@🎙️「 150 」`
 :   Podrás usar el panel de sonidos en los canales de voz.<br>Rango Mini-VIP.
 
-**Nivel 200** `@🎙️「 200 」`
+**Nivel 200** ➜ `@🎙️「 200 」`
 :   Separación de la barra de miembros.<br>Podrás añadir emotes, stickers y sonidos al servidor.<br>Rango VIP.
