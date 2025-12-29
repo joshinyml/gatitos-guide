@@ -9,7 +9,7 @@ tags:
 
 Aquí explicamos las mecánicas del servidor. Si llegaste a esta sección, ya conoces cómo funciona Discord, pero nuestra comunidad usa configuraciones que vale la pena detallar para evitar dudas.
 
-<br><br>
+<br>
 
 ### ¿Qué son los niveles?
 
@@ -17,7 +17,7 @@ Los niveles son una recompensa por tu actividad en el servidor. Muestran tu part
 - Niveles de texto
 - Niveles de voz
 
-<br><br>
+<br>
 
 ### Cómo subir de nivel
 

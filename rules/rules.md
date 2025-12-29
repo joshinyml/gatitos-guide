@@ -7,17 +7,16 @@ tags:
 ---
 # Reglas
 
-Estas son las reglas del servidor.<br>
-Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrarás una versión resumida de éstas, no obstante, si buscas una normativa que recoja todos los casos posibles, aquí se encuentra.
+Por comodidad para nuestros usuarios, en nuestro servidor de Discord encontrarás una versión resumida de estas reglas, no obstante, si buscas una normativa que recoja todos los casos posibles, se encuentra aquí.
 
 !!!info Documento largo
 Tiempo de lectura aproximado: 22 minutos
 !!!
 
 !!!danger REPORTAR ES LA MEJOR FORMA DE ACTUAR
-Si aprecias que un usuario incumple estas normas, repórtalo ante el equipo de moderadores y evita a toda costa un enfrentamiento directo. Podrías verte envuelt@ en el problema y recibir una sanción por ello.
+Si detectas que un usuario incumple estas normas, repórtalo al equipo de moderadores y evita cualquier enfrentamiento directo. Involucrarte puede empeorar la situación y derivar en una sanción para ti.
 
-La mejor forma de actuar es aportarle al equipo del staff las pruebas necesarias para una actuación rápida.
+La mejor forma de actuar es facilitándoles las pruebas necesarias al equipo staff para que puedan intervenir rápidamente.
 !!!
 
 ==- <kbd>P</kbd> Preámbulo
@@ -315,11 +314,11 @@ Estas normas aplican a los canales manejados por el bot CattoCoffee. Canales que
 ==- Tus derechos como usuario
 Como usuario, dispone usted de una serie de derechos. Aquí se recogen todos ellos:
 
-- **Derecho a la revisión de las pruebas.** Tiene usted derecho a que las pruebas de cualquier incidente en el que haya sido partícipe sean revisadas. No se garantiza que se puedan mostrar al usuario dada la posible participación de otros usuarios, no obstante, puede apoyarse en su derecho a la revisión imparcial de un caso por medio de un segundo moderador.
-- **Derecho a ser tratad@ imparcialmente.** Como usuario del servidor dispone usted del derecho a ser tratado de forma imparcial, sin atender a origen, etnia, ideología política, situación social u otros factores excluyentes.
-- **Derecho a informar de su disconformidad con la sanción.** Siguiendo las reglas del servidor y Discord, y bajo un lenguaje formal y respetuoso, usted puede trasladar a cualquier miembro del equipo de moderadores su disconformidad con alguna de sus sanciones.
-- **Derecho a la revisión imparcial de su sanción.** En caso de haber sido sancionad@, puede usted solicitar que un moderador completamente ajeno al asunto supervise la actuación para determinar si la sanción ha sido dada siguiendo el protocolo o no.
-- **Derecho a la corrección de sanciones.** En caso de haber recibido una sanción desproporcionada o mal medida, tiene usted el derecho de solicitar una corrección, que consistirá en la eliminación de la anterior sanción para otorgar una nueva más acorde a las circunstancias. Ésto no aplicará a las sanciones permanentes o de advertencia.
-- **Derecho a ser informad@.** Cuando usted sea sancionad@, recibirá una notificación aclarando la razón y causa que llevaron a un moderador a sancionarle.
-- **Derecho a la privacidad.** Bajo ninguna circunstancia se revelará a terceros la información perteneciente a los casos de sanciones o advertencias.
+- **Derecho a la revisión de las pruebas** <br> Tiene usted derecho a que las pruebas de cualquier incidente en el que haya sido partícipe sean revisadas. No se garantiza que se puedan mostrar al usuario dada la posible participación de otros usuarios, no obstante, puede apoyarse en su derecho a la revisión imparcial de un caso por medio de un segundo moderador.
+- **Derecho a ser tratad@ imparcialmente** <br> Como usuario del servidor dispone usted del derecho a ser tratado de forma imparcial, sin atender a origen, etnia, ideología política, situación social u otros factores excluyentes.
+- **Derecho a informar de su disconformidad con la sanción** <br> Siguiendo las reglas del servidor y Discord, y bajo un lenguaje formal y respetuoso, usted puede trasladar a cualquier miembro del equipo de moderadores su disconformidad con alguna de sus sanciones.
+- **Derecho a la revisión imparcial de su sanción** <br> En caso de haber sido sancionad@, puede usted solicitar que un moderador completamente ajeno al asunto supervise la actuación para determinar si la sanción ha sido dada siguiendo el protocolo o no.
+- **Derecho a la corrección de sanciones** <br> En caso de haber recibido una sanción desproporcionada o mal medida, tiene usted el derecho de solicitar una corrección, que consistirá en la eliminación de la anterior sanción para otorgar una nueva más acorde a las circunstancias. Ésto no aplicará a las sanciones permanentes o de advertencia.
+- **Derecho a ser informad@** <br> Cuando usted sea sancionad@, recibirá una notificación aclarando la razón y causa que llevaron a un moderador a sancionarle.
+- **Derecho a la privacidad** <br> Bajo ninguna circunstancia se revelará a terceros la información perteneciente a los casos de sanciones o advertencias.
 ===
