@@ -27,7 +27,7 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 :   Podrás usar stickers externos.<br>Podrás cambiar tu apodo.
 
 **Nivel 30** ➜ `@💬「 30 」`
-:   Podrás enviar multimedia en forma de links a <kbd>⁠:icon-hash:💬・general</kbd>.<br>Podrás escribir en ciertos canales de voz.
+:   Podrás enviar multimedia en forma de links a <kbd>⁠:icon-hash:💬・general</kbd>.<br>Podrás escribir en los canales de voz de Charla.
 
 **Nivel 50** ➜ `@💬「 50 」`
 :   Podrás iniciar actividades en <kbd>:icon-hash:💬・general</kbd>.<br>Podrás crear encuestas en <kbd>:icon-hash:💬・general</kbd>.
@@ -55,7 +55,7 @@ Cada uno de estos roles tiene una peculiaridad, y al igual que los roles VIP, ot
 :   Podrás activar la cámara y compartir tu pantalla en los canales de Charla.
 
 **Nivel 30** ➜ `@🎙️「 30 」`
-:   Podrás cambiar tu apodo.<br>Podras enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
+:   Podrás cambiar tu apodo.<br>Podrás enviar multimedia en forma de link en <kbd>:icon-hash:⁠💬・general</kbd>.
 
 **Nivel 50** ➜ `@🎙️「 50 」`
 :   Podrás añadir reacciones en los canales de voz.<br>Podrás editar el estado de los canales de voz.

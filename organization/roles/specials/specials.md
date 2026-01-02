@@ -7,7 +7,7 @@ tags:
 
 # Especiales
 
-Existe una serie de roles que están destinados a unas funciones especiales. Son roles que están fuera del alcance de los usuarios comunes, pero combiene conocerlos para tener en cuenta las cualidades de cada uno de estos roles y las limitaciones que como usuario tienes ante ellos.
+Existe una serie de roles que están destinados a unas funciones especiales. Son roles que están fuera del alcance de los usuarios comunes, pero conviene conocerlos para tener en cuenta las cualidades de cada uno de estos roles y las limitaciones que como usuario tienes ante ellos.
 
 <br>
 
