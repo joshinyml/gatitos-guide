@@ -18,7 +18,7 @@ Esta es la guía del servidor, un espacio donde recopilamos toda la documentaci�
 En la **barra superior** encontrarás el título de la guía junto a su versión, varios links de interés y un buscador.<br>
 En la **barra lateral izquierda** hay una lista con todas las secciones de la guía; esta vista esquemática te permitirá navegar fácilmente por el contenido.<br>
 En la **barra lateral derecha** se muestra un esquema de contenido, que visualiza los títulos de la página que estás leyendo.<br>
-Al **pie de cada página** encontrarás etiquetas que identifican el tema de la publicación. Si haces click en ellas, accederás a otras publicaciones con la misma etiqueta.
+Al **pie de cada página** encontrarás etiquetas que identifican el tema de la publicación. Si haces clic en ellas, accederás a otras publicaciones con la misma etiqueta.
 
 <br>
 
@@ -42,12 +42,12 @@ Visita la página de mecánicas del servidor y échale un vistazo. Algunas son �
 
 ### Organización de los canales
 Si quieres conocer al detalle todos nuestros canales, tanto de texto como de voz, te invitamos a visitar el apartado de organización de canales, donde encontrarás toda la información que necesitas sobre ellos.
-[!ref Canales](../organization/channels/)
+[!ref Canales](../organization/organization.md)
 
 <br>
 
 ### Funcionamiento de nuestra moderación
 Nuestros moderadores siguen un código de conducta muy estricto. Si quieres conocer en detalle nuestros procedimientos y cómo actuamos, puedes visitar el apartado correspondiente.
-[!ref Moderación](../mod/protocols/)
+[!ref Moderación](../mod/mod.md)
 
 <br>

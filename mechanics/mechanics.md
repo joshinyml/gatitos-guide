@@ -22,7 +22,7 @@ Los niveles son una recompensa por tu actividad en el servidor. Muestran tu part
 ### Cómo subir de nivel
 
 Subir de nivel es sencillo. En texto, solo necesitas participar y enviar mensajes.
-En voz, debes estar en el canal <u>hablando</u>; si te quedas muteado o sin actividad, el bot puede detectarlo como farmeo y no sumar puntos.
+En voz, debes estar en el canal <u>hablando</u>; si te quedas muteado, el bot puede detectarlo como farmeo y no sumar puntos.
 
 !!!info
 Los puntos se suman al finalizar la acción. En texto, se agregan cuando el mensaje se envía. En voz, se suman cuando sales del canal.
