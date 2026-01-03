@@ -24,5 +24,4 @@ Selecciona qué sección te interesaría explorar.
   - [Especiales](./roles/specials/)
   - [Niveles](./roles/levelroles/)
   - [VIP](./roles/vip/)
-  - [Acceso a voz](./roles/voice/)
-  
+  - [Colores VIP](./roles/colors/)
